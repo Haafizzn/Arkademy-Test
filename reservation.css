@@ -1,0 +1,106 @@
+*{
+	width: 1280px;
+	height: 853px;
+}
+header{
+	background-image: url(../Image/bg2.png);
+	background-size: cover;
+	background-position: center;
+}
+.container{
+	position: absolute;
+	width: 1280px
+	height:	853px;
+	left: 7px;
+	top: 8px;
+
+	background: rgba(42,38,61,0.82);
+}
+.title{
+	position: absolute;
+	left: 8px;
+	right: 519px;
+	top: 58px;
+	bottom: 578px;
+
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 84px;
+	text-align: center;
+
+	color: #FCB371;
+}
+.button{
+	position: absolute;
+	width: 24px;
+	height: 29px;
+	left: 80px;
+	top: 80px;
+
+	border: 0px solid #FCB371;
+	box-sizing: border-box;
+}
+.teksbox{
+	position: absolute;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 8px;
+}
+.no1{
+	width: 382px;
+	height: 46px;
+	left: 461px;
+	top: 210px;
+}
+.no2{
+	width: 382px;
+	height: 46px;
+	left: 461px;
+	top: 270px;
+}
+.no3{
+	width: 180px;
+	height: 46px;
+	left: 461px;
+	top: 330px;
+}
+.no4{
+	width: 180px;
+	height: 46px;
+	left: 663px;
+	top: 330px;
+}
+.no5{
+	width: 382px;
+	height: 146px;
+	left: 461px;
+	top: 391px;
+}
+.submit{
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 1px;
+	display: flex;
+	align-items: center;
+}
+.btn{
+	border: 2px solid #FCB371;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+}
+.btn:hover{
+	background-color: orange;
+	color: white;
+}
+.no-1{
+	position: absolute;
+	width: 322px;
+	height: 21px;
+	left: 461px;
+	top: 553px;
+}

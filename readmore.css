@@ -1,0 +1,59 @@
+*{
+	width: 1280px;
+	height: 853px;
+}
+header{
+	background: url(../Image/bg1.png);
+	background-position: center;
+	background-size: cover;
+}
+.container{
+	position: absolute;
+	width: 1280px;
+	height: 853px;
+	left: 7px;
+	top: 8px;
+
+	background: rgba(42,38,61,0.82);
+}	
+.title{
+	position: absolute;
+	font-style: normal;
+	font-weight: normal;
+}
+.no1{
+	left: 550px;
+	right: 541px;
+	top: 130px;
+	bottom: 465px;
+
+	font-family: pacifico;
+	font-size: 48px;
+	line-height: 84px;
+	color: orange; 
+}
+.no2{
+	left: 1px;
+	right: 541px;
+	top: 301px;
+	bottom: 465px;
+
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 33px;
+	text-align: center;
+
+	color: white;
+}
+.button{
+	position: absolute;
+	width: 24px;
+	height: 29px;
+	left: 80px;
+	top: 80px;
+
+	border: 0px solid #FCB371;
+	box-sizing: border-box;
+}

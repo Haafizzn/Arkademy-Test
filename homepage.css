@@ -1,0 +1,95 @@
+*{
+	width: 1280px;
+	height: 853px;
+}
+header{
+	background-image: url(../Image/ImageBackground.png);
+	background-position: center;
+	background-size: cover;
+}
+.container{
+	position: absolute;
+	width: 1280px;
+	height: 853px;
+	left: 10px;
+	top: 10px;
+
+	background: rgb(42,38,61,0.82);
+}
+.icon{
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 564px;
+	top: 84px;
+	bottom: 551px;
+
+	background: url(../Image/IconBali.png);
+}
+.title{
+	position: absolute;
+	left: 6px;
+	right: 76px;
+	top: 253px;
+	bottom: 329px;
+
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 84px;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+.title-1{
+	position: absolute;
+	width: 117px;
+	height: 16px;
+	left: 592px;
+	top: 435px;
+
+	font-family: Roboto Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+.button{
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 1px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.btn{
+	border: 2px solid #FCB371;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+}
+.btn:hover{
+	background-color: orange;
+	color: white;
+}
+.no-1{
+	position: absolute;
+	width: 61px;
+	height: 21px;
+	left: 484px;
+	top: 493px;
+}
+.no-2{
+	position: absolute;
+	width: 61px;
+	height: 21px;
+	left: 684px;
+	top: 493px;
+}
+
